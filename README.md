@@ -5,9 +5,8 @@
 
 Good day!
 
-I'm a Front-End Developer. 🌱  
+I'm a Junior Front-End Developer. 🌱  
 
-I love exercising and communicating!
 
 <br/>
 
