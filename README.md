@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,2,2,2,2,1&text=Fe.geni's%20Github⭐️&textBg=true&animation=fadeIn&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&customColorList=0,2,2,2,2,1&text=Racejb's%20Github⭐️&textBg=true&animation=fadeIn&fontSize=20)
 
 ### Hi, 👋🏻 I'm JoonBeom Moon!
 <br>
@@ -16,8 +16,7 @@ I love exercising and communicating!
   - 최우수 프로젝트상 수상 ‍‍🥇  
 - 
 
-
-<br><br><br>
+<br><br>
 
 ---
 <br>
