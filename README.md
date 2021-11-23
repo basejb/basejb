@@ -13,8 +13,14 @@ I love exercising and communicating!
 
 ### 💫 Experience
 - **fninnoedu** - 블록체인 시스템 엔지니어 양성 과정 *(2020.05 - 2020.11)*
-  - 최우수 프로젝트상 수상 ‍‍🥇  
-- 
+  - 최우수 프로젝트상 수상 ‍‍🥇 
+  
+### 💁🏻‍♂️ Project
+- **Hugus** - 하이퍼레저 패브릭을 기반으로한 기부 플랫폼
+
+- **RealTimeWork** - 사내의 사용자간의 실시간 소통 웹앱
+
+- **Umokmin** - 본인의 특별한 장소를 공유 • 소통하는 커뮤니티 플랫폼
 
 <br><br>
 
