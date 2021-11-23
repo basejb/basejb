@@ -69,7 +69,7 @@ I love exercising and communicating!
 <p align="center">
    &nbsp;<img src="https://img.shields.io/badge/Git%20-F05032?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Slack%20-4A154B?&style=for-the-badge&logo=slack&logoColor=white"/>&nbsp;
-   &nbsp;<img src="https://img.shields.io/badge/Notion%20-4A154B?&style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
+   &nbsp;<img src="https://img.shields.io/badge/Notion%20-8DD6F9?&style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
 </p>
 
 <br><br>
