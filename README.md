@@ -27,8 +27,6 @@ I love exercising and communicating!
 <p align="center">
    &nbsp;<img src="https://img.shields.io/badge/javascript%20-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/typescript%20-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-   &nbsp;<img src="https://img.shields.io/badge/python%20-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-   &nbsp;<img src="https://img.shields.io/badge/Java%20-007396?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Solidity%20-363636?&style=for-the-badge&logo=Solidity&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Html5%20-E34F26?&style=for-the-badge&logo=Html5&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/css3%20-1572B6?&style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
@@ -48,7 +46,6 @@ I love exercising and communicating!
 <p align="center">
    &nbsp;<img src="https://img.shields.io/badge/Node.js%20-339933?&style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/Sequelize%20-52B0E7?&style=for-the-badge&logo=sequelize&logoColor=white"/>&nbsp;
-   &nbsp;<img src="https://img.shields.io/badge/Typeorm%20-CA4245?&style=for-the-badge&logo=typerom&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/socket.io%20-010101?&style=for-the-badge&logo=socket.io&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;
    &nbsp;<img src="https://img.shields.io/badge/s3%20-569A31.svg?&style=for-the-badge&logo=amazon-s3&logoColor=white"/>&nbsp;
