@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&customColorList=0,2,2,2,2,1&text=Racejb's%20Github⭐️&textBg=true&animation=fadeIn&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&customColorList=0,2,2,2,2,1&text=Racejb's%20Github⭐️&textBg=true&animation=fadeIn&fontSize=20)
 
 ### Hi, 👋🏻 I'm JoonBeom Moon!
 <br>
@@ -91,4 +91,4 @@ I love exercising and communicating!
     &nbsp;<a href="mailto:moonnr94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer&text=%20&fontSize=90)
