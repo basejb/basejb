@@ -20,9 +20,3 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" />
   </a>
 </div>
-
-### Stats
-
-<div style="display: flex;"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=basejb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=e4e4e7&icon_color=0891b2&bg_color=3f3f46&hide_border=true&show_icons=true" alt="basejb's GitHub stats" height="229" />
-</div>
